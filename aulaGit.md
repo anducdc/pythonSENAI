@@ -9,3 +9,4 @@
 |Git config --global user.name 'nome'|Edita seu nome|
 |Git config --global user.email 'email@email'|Edita seu email|
 |Git config --list|Mostra listagem de dados|
+|Git commit -m 'mensagem'|Faz commit e adiciona mensagem|
