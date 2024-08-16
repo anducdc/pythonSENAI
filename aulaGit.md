@@ -11,3 +11,5 @@
 |Git config --list|Lista configurações git|
 |Git commit -m 'mensagem'|Faz commit e adiciona mensagem|
 |Git log|Verifica histórico de commits|
+|Git checkout -b github|Cria uma nova branch com "-b" e troca para ela com "checkout". O nome dado aqui como exmeplo foi "Github" |
+|Git checkout nome da branch|Troca para a branch nomeada|
