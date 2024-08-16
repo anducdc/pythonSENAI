@@ -7,3 +7,4 @@ Curso de capacitação Pyhton ofertado pelo programa Inovatech em parceria com o
 |01|Introdução ao Curso||
 |02|Introdução à linguagem Markdown|[Aqui](aulaMarkdown.md)|
 |03|Compreendendo GIT|[Aqui](aulaGit.md)|
+|.||
