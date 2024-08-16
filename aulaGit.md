@@ -15,3 +15,5 @@
 |Git checkout nome da branch|Troca para a branch nomeada|
 |Git branch|Mostra todas as branches|
 |Git merge nome da branch|Mescla a branch atual com a branch nomeada|
+|git branch -d github|Deletar uma branch fora da que você estivergit|
+|||
