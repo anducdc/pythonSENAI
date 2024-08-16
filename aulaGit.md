@@ -13,3 +13,4 @@
 |Git log|Verifica histórico de commits|
 |Git checkout -b github|Cria uma nova branch com "-b" e troca para ela com "checkout". O nome dado aqui como exmeplo foi "Github" |
 |Git checkout nome da branch|Troca para a branch nomeada|
+|Git branch|Mostra todas as branches|
