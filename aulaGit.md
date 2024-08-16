@@ -10,3 +10,4 @@
 |Git config --global user.email 'email@email'|Edita seu email|
 |Git config --list|Lista configurações git|
 |Git commit -m 'mensagem'|Faz commit e adiciona mensagem|
+|Git log|Verifica histórico de commits|
