@@ -16,4 +16,4 @@
 |Git branch|Mostra todas as branches|
 |Git merge nome da branch|Mescla a branch atual com a branch nomeada|
 |git branch -d github|Deletar uma branch fora da que você estivergit|
-|||
+|git push -u origin main|Subir arquivo atualizado para o Github|
