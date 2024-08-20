@@ -6,7 +6,7 @@ alturaTri = float(input('informe o valor da altura do triângulo\n'))
 
 
 print('           /|')
-print('         x/ |',alturaTri)
+print('        x / |',alturaTri)
 print('         /__|')
 print('        ',baseTri )
 
