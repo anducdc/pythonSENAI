@@ -1,6 +1,18 @@
-idade = int(input('Digite sua idade'))
+candidato = int(input('Informe o numero do candidato\n'))
 
-if(idade >= 18):
-    print('Maior de idade')
+if(candidato == 13):
+    print('Votou no Lula')
+elif(candidato == 22):
+    print('Votou no Bolsonaro')
 else:
-    print('Menor de idade')
+    print('Candidato inválido')
+
+
+
+    match candidato:
+        case 13:
+            print('Votou no lula')
+        case 22:
+            print('votou no Bolsonaro')
+        case _:
+            print('opção inválida')
