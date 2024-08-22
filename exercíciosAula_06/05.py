@@ -4,12 +4,7 @@ numeroDois = int(input('Digite outro número\n'))
 numeroUm = numeroUm %2
 numeroDois = numeroDois %2
 
-if numeroUm == 0:
-    print('O primeiro número é par')
+if numeroUm == 0 and numeroDois == 0:
+    print('Ambos os números são pares')
 else:
-    print('O primeiro número é ímpar')
-
-if numeroDois == 0:
-    print('O segundo número é par')
-else:
-    print('O segundo número é ímpar')
+    print('Um ou ambos os números são ímpares')
