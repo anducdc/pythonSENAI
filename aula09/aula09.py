@@ -23,7 +23,7 @@ print(texto.capitalize())
 #else:
 #   print('não é palindromo')
 
-LISTA.PY
+#LISTA.PY
 
 #C   R   U   D
 #R   E   P   E
