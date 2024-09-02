@@ -1,6 +1,4 @@
-from fileinput import nextfile
+numeros = [1, 2, 3, 5, 8, 78, 45, 25, 100]
 
-
-alunos = anderson mike lucas tom nile
-alunos.split()
-print(alunos)
+for numero in numeros:
+    print(numeros)
